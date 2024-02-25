@@ -1,0 +1,1 @@
+Using HashSet instead of second array because of faster search for uniqueness
