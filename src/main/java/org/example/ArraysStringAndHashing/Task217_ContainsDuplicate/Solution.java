@@ -1,4 +1,4 @@
-package org.example.ArraysAndHashing.ContainsDuplicate217;
+package org.example.ArraysStringAndHashing.Task217_ContainsDuplicate;
 
 import java.util.HashSet;
 import java.util.Set;

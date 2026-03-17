@@ -1,4 +1,4 @@
-package org.example.ArraysAndHashing.TopKFrequentElements347;
+package org.example.ArraysStringAndHashing.Task347_TopKFrequentElements;
 
 import java.util.*;
 

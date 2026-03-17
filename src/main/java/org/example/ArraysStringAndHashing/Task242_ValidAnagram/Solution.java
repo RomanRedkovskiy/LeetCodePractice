@@ -1,9 +1,4 @@
-package org.example.ArraysAndHashing.ValidAnagram242;
-
-import java.io.CharArrayReader;
-import java.util.Arrays;
-import java.util.HashMap;
-import java.util.Map;
+package org.example.ArraysStringAndHashing.Task242_ValidAnagram;
 
 public class Solution {
 

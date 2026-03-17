@@ -1,4 +1,4 @@
-package org.example.ArraysAndHashing.GroupAnagrams49;
+package org.example.ArraysStringAndHashing.Task49_GroupAnagrams;
 
 import java.util.*;
 
